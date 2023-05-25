@@ -1,6 +1,6 @@
 const version='1.0.0';
 const author='FreedomPrevails';
-const github='https://github.com/FreedomPrevails/JSMTProxy';
+const github='https://github.com/hrquiz/teleproto';
 
 const net = require('net');
 const crypto = require('crypto');
